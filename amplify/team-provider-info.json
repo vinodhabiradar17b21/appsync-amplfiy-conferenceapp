@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-rnconfinabox-dev-120149-authRole",
+            "UnauthRoleArn": "arn:aws:iam::731984886438:role/amplify-rnconfinabox-dev-120149-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::731984886438:role/amplify-rnconfinabox-dev-120149-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-rnconfinabox-dev-120149-deployment",
+            "UnauthRoleName": "amplify-rnconfinabox-dev-120149-unauthRole",
+            "StackName": "amplify-rnconfinabox-dev-120149",
+            "StackId": "arn:aws:cloudformation:us-east-1:731984886438:stack/amplify-rnconfinabox-dev-120149/fd667c90-7186-11ea-9c9a-0eba1c1b0c34",
+            "AmplifyAppId": "d1jrm8h9f04l7b"
+        },
+        "categories": {
+            "auth": {
+                "rnconfinabox58de14db": {}
+            }
+        }
+    }
+}
